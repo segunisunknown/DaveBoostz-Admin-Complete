@@ -1,0 +1,6 @@
+{
+  "name": "DaveBoostz Admin Panel",
+  "description": "Private admin panel for DaveBoostz Android gaming booster app",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
